@@ -1,1 +1,9 @@
 .DS_Store
+
+# Large datasets and generated files
+fer2013.csv
+fer2013/fer2013/fer2013.csv
+model_filter.h5
+*.msi
+node_modules/
+.DS_Store
