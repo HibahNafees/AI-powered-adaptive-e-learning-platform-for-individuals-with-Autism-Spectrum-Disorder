@@ -1,0 +1,13 @@
+npm install -g yarn
+
+npm install react-scripts
+
+yarn add react-scripts
+
+
+
+--------------------------------------------
+
+Simple React Snippets-v1.2.7
+
+ES7+ React/Redux/React-Native snippets-v4.4.3
